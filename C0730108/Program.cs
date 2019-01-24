@@ -29,7 +29,7 @@ namespace C0730108
         static void Main(string[] args)
         {
             var Customer = new Customer();
-            customer.
+            customer
         }
         
             //var dog_and_cat = new Car();
