@@ -31,7 +31,7 @@ namespace C0730108
             var Customer = new Customer();
             customer
         }
-        {
+        
             //var dog_and_cat = new Car();
             // var bowling = new Car();
             // Console.WriteLine("how many cars: {0} ",Vehicle.HowManyCars );
