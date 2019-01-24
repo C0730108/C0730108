@@ -16,7 +16,7 @@ namespace C0730108
             {
                 Console.WriteLine("Promote to Level 1");
             }
-            else { Console.WriteLine("Promote to Level 1"); }
+            else { Console.WriteLine("Promote to Level 2"); }
         }
             public int CalculateReating()
         {
@@ -29,14 +29,14 @@ namespace C0730108
         static void Main(string[] args)
         {
             var Customer = new Customer();
-            customer
+            customer.
         }
         
             //var dog_and_cat = new Car();
             // var bowling = new Car();
             // Console.WriteLine("how many cars: {0} ",Vehicle.HowManyCars );
-            Book myBook = new Book();
-            myBook.SetTitle("A Separete Peace");
+            //Book myBook = new Book();
+            //myBook.SetTitle("A Separete Peace");
             //Console.WriteLine("my color is" + Color);
         }
     }
@@ -44,29 +44,29 @@ namespace C0730108
     //     class Car : Vehicle
         class BookCollection
     {
-        private String Title;
-        public void Settitle
+             private String Title;
+             public void SetTitle(String aTitle) { this.Title = aTitle; }
+            public String GetTitle() { return this.Title; }
         //public static int HowManyCars =0;
         //public String Color = "Blue";
     }
     //class Car: Vehicle
-    {
+    
         //public String Color = "Red";
         //public Car()
-        {
+        
             //Vehicle.HowManyCars++;
             //Console.WriteLine("my color is " + Color);
-        }
-    }
-        }
+        
+    
+        
 
-{
 
-}
 
-{
-    prvate String Titale;
-        public void Sa
-}
+
+
+
+  
+
     
 
